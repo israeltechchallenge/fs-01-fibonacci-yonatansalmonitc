@@ -1,1 +1,6 @@
-asfasfa
+console.log('Hi')
+
+
+function hi() {
+
+}
